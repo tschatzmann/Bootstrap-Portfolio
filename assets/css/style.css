@@ -9,5 +9,27 @@
 }
 
 .card-deck {
+    padding-bottom: 10px;
     padding: 20px;
+}
+
+
+body{
+    background-image: linear-gradient(to right top, #94d16b, #91d573, #8eda7c, #8cde84, #89e28d, #86e591, #83e994, #7fec98, #79f098, #71f398, #69f798, #5ffb98);
+}
+
+#about{
+    background-image: linear-gradient(to right top, #94d16b, #91d573, #8eda7c, #8cde84, #89e28d, #86e591, #83e994, #7fec98, #79f098, #71f398, #69f798, #5ffb98);}
+
+nav{
+    background-image: linear-gradient(to right top, #053737, #006453, #009359, #4bc14a, #a8eb12);
+}
+
+.card-text{
+    font-size: 16px;
+}
+
+.card-body{
+    align-content: center;
+    align-self: center;
 }
